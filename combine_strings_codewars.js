@@ -11,5 +11,5 @@ returns:
 */
 
 const combineNames = (first, last) => {
-
+  return first + ' ' + last;
 }
